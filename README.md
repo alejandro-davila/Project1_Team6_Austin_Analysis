@@ -75,7 +75,12 @@ The project will deliver the following:
 
 The project will be undertaken by: 
 
-<img width="100" alt="ch" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/9059bb2c-5f9f-4c5f-99cf-0fabd9850c7d>--Christopher Hornung <img width="100" alt="im" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/4a080126-b1f9-4c63-aa7b-e64ecf3b3891>-- Induja Mohandas <img width="100" alt="ir" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/b442783a-c4c5-4227-abf3-515ad114e539>--- Isac Ramos <img width="100" alt="sl" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/8f92d55c-1471-474b-b104-305582ef9bec>--- Shannon Lloyd <img width="100" alt="ad" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/d6248e88-63ea-4252-aebb-3656284d2c9e>--- Alejandro Davila
+<h3 align="center">
+  <img width="100" alt="ch" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/9059bb2c-5f9f-4c5f-99cf-0fabd9850c7d>&nbsp;&nbsp;&nbsp;Christopher Hornung &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<img width="100" alt="im" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/4a080126-b1f9-4c63-aa7b-e64ecf3b3891>&nbsp;&nbsp;&nbsp;Induja Mohandas 
+  
+
+<h3 align="center">
+  <img width="100" alt="ir" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/b442783a-c4c5-4227-abf3-515ad114e539>&nbsp;&nbsp;&nbsp;Isac Ramos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="sl" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/8f92d55c-1471-474b-b104-305582ef9bec>&nbsp;&nbsp;Shannon Lloyd &nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="ad" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/d6248e88-63ea-4252-aebb-3656284d2c9e>&nbsp;&nbsp;&nbsp;Alejandro Davila
 
 <h1 align="center">6. Conclusion</h1>
 

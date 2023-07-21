@@ -1,14 +1,17 @@
 # Project1_Team6_Housing_Market
 Team 6, consisting of Christopher H., Induja M., Isac R., Shannon L., and Alejandro D., analyzing data driven by the top  4 metropolitans  in the state of Texas. 
 
+<p align="center">
+<img width="424" alt="ratlabs" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/fc946ef6-71c7-41c9-b826-d9fa86869726>
 
-# Data Analytics Project Proposal: Analyzing Housing Values in Top Metro Areas of Texas
 
-## 1. Introduction
+<h1 align="center">Data Analytics Project Proposal: Analyzing Housing Values in Top Metro Areas of Texas</h1>
+
+<h1 align="center">1. Introduction</h1>
 
 The objective of this data analytics project is to explore the potential indicators that influence housing values in the top four metro areas of Texas: Dallas, Houston, San Antonio, and Austin. By analyzing various factors related to economic, social, and demographic aspects, we aim to understand the correlations and identify the most significant drivers affecting the real estate market in these regions.
 
-## 2. Objectives
+<h1 align="center">2. Objectives</h1>
 
 The primary objectives of this project are as follows:
 
@@ -20,7 +23,10 @@ The primary objectives of this project are as follows:
 
 •    Provide actionable insights and recommendations for potential homebuyers, investors, and policymakers.
 
-## 3. Methodology
+<h1 align="center">3. Methodology</h1>
+
+<p align="center">
+<img width="424" alt="ratlabs" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/66362c83-fc41-4868-9aab-9a2bd76623ae>
 
 ## 3.1 Data Collection
 We will gather comprehensive data from various sources, including government databases, real estate agencies, educational institutions, healthcare organizations, and crime statistics repositories. The data will encompass the following indicators:
@@ -57,7 +63,7 @@ We will employ a combination of exploratory data analysis, statistical technique
 
 The findings will be presented through clear and interactive data visualizations, including graphs, heatmaps, choropleth maps, and scatter plots. Interpretation of the results will be carried out in conjunction with the research questions and objectives to provide meaningful insights into the factors affecting housing values in each metro area.
 
-## 4. Deliverables
+<h1 align="center">4. Deliverables</h1>
 
 The project will deliver the following:
 
@@ -65,11 +71,13 @@ The project will deliver the following:
 2.    Interactive data visualizations to aid in understanding patterns and relationships.
 3.    Recommendations for stakeholders, such as potential homebuyers, real estate investors, and local policymakers, based on the analysis.
 
-## 5. Team Members
+<h1 align="center">5. Team Members</h1>
 
-The project will be undertaken by Christopher Hornung, Induja Mohandas, Isac Ramos, Shannon Lloyd, and Alejandro Davila. 
+The project will be undertaken by: 
 
-## 6. Conclusion
+<img width="100" alt="ch" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/9059bb2c-5f9f-4c5f-99cf-0fabd9850c7d>--Christopher Hornung <img width="100" alt="im" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/4a080126-b1f9-4c63-aa7b-e64ecf3b3891>-- Induja Mohandas <img width="100" alt="ir" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/b442783a-c4c5-4227-abf3-515ad114e539>--- Isac Ramos <img width="100" alt="sl" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/8f92d55c-1471-474b-b104-305582ef9bec>--- Shannon Lloyd <img width="100" alt="ad" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/d6248e88-63ea-4252-aebb-3656284d2c9e>--- Alejandro Davila
+
+<h1 align="center">6. Conclusion</h1>
 
 By conducting this data analytics project, we aim to provide valuable insights into the factors influencing housing values in the top four metro areas of Texas. The results will aid various stakeholders in making informed decisions and contribute to a deeper understanding of the dynamics of the real estate market in these regions.
 

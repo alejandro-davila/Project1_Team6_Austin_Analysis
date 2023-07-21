@@ -65,11 +65,11 @@ The project will deliver the following:
 2.    Interactive data visualizations to aid in understanding patterns and relationships.
 3.    Recommendations for stakeholders, such as potential homebuyers, real estate investors, and local policymakers, based on the analysis.
 
-## 6. Team Members
+## 5. Team Members
 
 The project will be undertaken by Christopher Hornung, Induja Mohandas, Isac Ramos, Shannon Lloyd, and Alejandro Davila. 
 
-## 7. Conclusion
+## 6. Conclusion
 
 By conducting this data analytics project, we aim to provide valuable insights into the factors influencing housing values in the top four metro areas of Texas. The results will aid various stakeholders in making informed decisions and contribute to a deeper understanding of the dynamics of the real estate market in these regions.
 

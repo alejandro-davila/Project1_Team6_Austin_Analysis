@@ -31,20 +31,20 @@ The primary objectives of this project are as follows:
 ## 3.1 Data Collection
 We will gather comprehensive data from various sources, including government databases, real estate agencies, educational institutions, healthcare organizations, and crime statistics repositories. The data will encompass the following indicators:
 
-1.    Business Development: Data on recent business investments, startups, and job creation in each metro area.
-2.    Property Tax Values: Property tax assessment data for residential properties in different neighborhoods.
-3.    Median Income: Average household income data for each metro area.
-4.    School Rating: Educational quality ratings and performance metrics for schools within the regions.
-5.    Poverty Rating: Data on poverty rates in different neighborhoods within the metro areas.
-6.    Commercial Development: Information on the development and occupancy of commercial properties.
-7.    Unemployment Levels: Data on the employment status and unemployment rates in each metro area.
-8.    Job Openings Available: Number of job openings and employment opportunities in various industries.
-9.    Crime Levels: Crime statistics and safety indices for different neighborhoods within the metro areas.
-10.    Higher Education Access: Availability and quality of colleges and universities in the regions.
-11.    Charter to District School Ratio: Proportion of charter schools to public schools and their potential impact on housing prices.
-12.    Access to Healthcare: Availability and quality of healthcare facilities in each metro area.
-13.    Racial Distribution: Demographic data on racial and ethnic groups within neighborhoods.
-14.    Religious Participation: Data on religious institutions and their potential correlation with housing prices.
+1.    Business Development: Data on recent business investments, startups, and job creation in each metro area. (TBD)
+2.    Property Tax Values: Property tax assessment data for residential properties in different neighborhoods. (TBD)
+3.    Median Income: Average household income data for each metro area. (Y)
+4.    School Rating: Educational quality ratings and performance metrics for schools within the regions. (M)
+5.    Poverty Rating: Data on poverty rates in different neighborhoods within the metro areas. (Y)
+6.    Commercial Development: Information on the development and occupancy of commercial properties. (TBD)
+7.    Unemployment Levels: Data on the employment status and unemployment rates in each metro area. (Y)
+8.    Job Openings Available: Number of job openings and employment opportunities in various industries. (TBD)
+9.    Crime Levels: Crime statistics and safety indices for different neighborhoods within the metro areas. (M)
+10.   Education Demographics: Demographic makeup of local population (Y) 
+11.    Charter to District School Ratio: Proportion of charter schools to public schools and their potential impact on housing prices. (TBD)
+12.    Access to Healthcare: Availability and quality of healthcare facilities in each metro area. (N)
+13.    Racial Distribution: Demographic data on racial and ethnic groups within neighborhoods. (Y)
+14.    Religious Participation: Data on religious institutions and their potential correlation with housing prices. (N)
 
 
 ## 3.2 Data Analysis

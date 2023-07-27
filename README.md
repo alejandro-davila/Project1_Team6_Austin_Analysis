@@ -1,77 +1,69 @@
-# Project1_Team6_Housing_Market
+# Project1_Team6_Rapid_Growth_Market
 Team 6, consisting of Christopher H., Induja M., Isac R., Shannon L., and Alejandro D., analyzing data driven by the top  4 metropolitans  in the state of Texas. 
 
 <p align="center">
 <img width="424" alt="ratlabs" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/fc946ef6-71c7-41c9-b826-d9fa86869726>
 
 
-<h1 align="center">Data Analytics Project Proposal: Analyzing Housing Values in Top Metro Areas of Texas</h1>
+<h1 align="center">Data Analytics Project Proposal:  Investigating the Impact of Austin's Rapid Growth on Travis County and Surrounding Counties</h1>
 
 <h1 align="center">1. Introduction</h1>
 
-The objective of this data analytics project is to explore the potential indicators that influence housing values in the top four metro areas of Texas: Dallas, Houston, San Antonio, and Austin. By analyzing various factors related to economic, social, and demographic aspects, we aim to understand the correlations and identify the most significant drivers affecting the real estate market in these regions.
+The American Growth Project has reported that Austin was the second fastest growing city in the US in 2022. This unprecedented growth can have far-reaching effects on the city and its surrounding areas. In this project, we aim to analyze the changes that have occurred in Travis County, where Austin is located, and the neighboring counties. By examining key indicators such as population, median income, unemployment levels, crime rates, school rankings, higher education levels, and racial demographics, we seek to understand the implications of this growth and make predictions for potential future developments if this growth trend continues.
 
 <h1 align="center">2. Objectives</h1>
 
 The primary objectives of this project are as follows:
 
-•    Identify key indicators that exhibit a strong association with housing values in the selected metro areas.
+•    To analyze and compare data from various years, focusing on years prior to 2022 (e.g., 2020 and earlier), to understand the trends leading up to Austin's rapid growth.
 
-•    Analyze the relationships between the chosen indicators and housing prices to determine their impact.
+•    To examine changes in specific areas of interest, including population dynamics, economic indicators, crime rates, education levels, and demographic shifts in Travis County and surrounding counties.
 
-•    Develop predictive models to estimate housing values based on relevant indicators.
+•    To identify correlations between the growth of Austin and its effects on the aforementioned areas.
 
-•    Provide actionable insights and recommendations for potential homebuyers, investors, and policymakers.
+•    To make informed predictions about the potential outcomes if the growth trend persists.
 
 <h1 align="center">3. Methodology</h1>
 
 <p align="center">
 <img width="424" alt="ratlabs" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/66362c83-fc41-4868-9aab-9a2bd76623ae>
 
-## 3.1 Data Collection
-We will gather comprehensive data from various sources, including government databases, real estate agencies, educational institutions, healthcare organizations, and crime statistics repositories. The data will encompass the following indicators:
-
-1.    Business Development: Data on recent business investments, startups, and job creation in each metro area. (TBD)
-2.    Property Tax Values: Property tax assessment data for residential properties in different neighborhoods. (TBD)
-3.    Median Income: Average household income data for each metro area. (Y)
-4.    School Rating: Educational quality ratings and performance metrics for schools within the regions. (M)
-5.    Poverty Rating: Data on poverty rates in different neighborhoods within the metro areas. (Y)
-6.    Commercial Development: Information on the development and occupancy of commercial properties. (TBD)
-7.    Unemployment Levels: Data on the employment status and unemployment rates in each metro area. (Y)
-8.    Job Openings Available: Number of job openings and employment opportunities in various industries. (TBD)
-9.    Crime Levels: Crime statistics and safety indices for different neighborhoods within the metro areas. (M)
-10.   Education Demographics: Demographic makeup of local population (Y) 
-11.    Charter to District School Ratio: Proportion of charter schools to public schools and their potential impact on housing prices. (TBD)
-12.    Access to Healthcare: Availability and quality of healthcare facilities in each metro area. (N)
-13.    Racial Distribution: Demographic data on racial and ethnic groups within neighborhoods. (Y)
-14.    Religious Participation: Data on religious institutions and their potential correlation with housing prices. (N)
+1.    Data Collection: We will gather relevant data from various sources, such as U.S. Census Bureau, Bureau of Labor Statistics, local government reports, educational institutions, and crime databases. The selected years for analysis will include data for years up to 2020 (excluding 2021 due to potential pandemic-related data inconsistencies).
+2.     Data Analysis: We will employ statistical methods to analyze the collected data. This will involve examining trends, calculating growth rates, and identifying correlations between Austin's growth and the selected indicators in the respective counties.
+3.    Comparative Study: We will compare the data from Travis County with that of surrounding counties to ascertain the differences in growth and its impacts on the various areas of interest.
+4.    Predictive Analysis: Utilizing the findings from our analysis, we will make predictions about potential outcomes in the future if the growth trend continues at its current rate or follows similar patterns.
 
 
-## 3.2 Data Analysis
+<h1 align="center">4. Areas of Interest</h1>
 
-We will employ a combination of exploratory data analysis, statistical techniques, and machine learning algorithms to achieve the project objectives:
+•    Population: Analyzing the growth rate of Austin and its impact on population dynamics in Travis County and surrounding areas.
 
-•    Descriptive statistics to understand the distribution and characteristics of the data.
+•    Median Income: Studying changes in household income to understand the economic implications of the city's growth.
 
-•    Correlation analysis to identify potential relationships between housing prices and the selected indicators.
+•    Unemployment Levels: Investigating the correlation between Austin's growth and the unemployment rates in the region.
 
-•    Regression analysis to develop predictive models for housing values based on influential factors.
+•    Crime Rates: Assessing any potential impact on crime rates as a result of population growth.
 
-•    Geospatial analysis to visualize geographical patterns and hotspots of housing prices and indicators.
+•    School Rankings: Examining how the growth affects the performance and rankings of schools in the area.
 
-## 3.3 Interpretation and Visualization
+•    Higher Education Levels: Analyzing the effect on higher education enrollment and attainment levels.
 
-The findings will be presented through clear and interactive data visualizations, including graphs, heatmaps, choropleth maps, and scatter plots. Interpretation of the results will be carried out in conjunction with the research questions and objectives to provide meaningful insights into the factors affecting housing values in each metro area.
+•    Racial Demographics: Studying shifts in racial demographics to identify any disparities resulting from the growth.
 
-<h1 align="center">4. Deliverables</h1>
+
+<h1 align="center">5. Expected Outcomes</h1>
+
+We anticipate that our analysis will provide valuable insights into the effects of Austin's rapid growth on Travis County and neighboring areas. By identifying correlations and trends in the selected indicators, we hope to make informed predictions about potential future developments. Our findings could be instrumental in guiding local policymakers, urban planners, and community leaders in managing the growth effectively and sustainably.
+
+<h1 align="center">6. Deviverables</h1>
 
 The project will deliver the following:
 
 1.    Comprehensive data analysis report with insights, correlation analysis, and predictive modeling results.
 2.    Interactive data visualizations to aid in understanding patterns and relationships.
-3.    Recommendations for stakeholders, such as potential homebuyers, real estate investors, and local policymakers, based on the analysis.
 
-<h1 align="center">5. Team Members</h1>
+
+<h1 align="center">7. Team Members</h1>
 
 The project will be undertaken by: 
 
@@ -84,7 +76,7 @@ The project will be undertaken by:
 
 <h1 align="center">6. Conclusion</h1>
 
-By conducting this data analytics project, we aim to provide valuable insights into the factors influencing housing values in the top four metro areas of Texas. The results will aid various stakeholders in making informed decisions and contribute to a deeper understanding of the dynamics of the real estate market in these regions.
+This project aims to shed light on the consequences of Austin's fast-paced growth on Travis County and surrounding areas. Through rigorous data analysis, we seek to understand how the growth has impacted various aspects of the region, such as population, economy, education, crime, and demographics. By making predictions about future trends, we aim to contribute valuable insights that can assist in planning for sustainable development and addressing potential challenges resulting from continuous growth.
 
-Please note that the specific data sources, tools, and techniques mentioned in this proposal are subject to further discussion and approval by the project team and relevant stakeholders.
+
 

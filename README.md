@@ -29,8 +29,11 @@ The primary objectives of this project are as follows:
 <img width="424" alt="ratlabs" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/66362c83-fc41-4868-9aab-9a2bd76623ae>
 
 1.    Data Collection: We will gather relevant data from various sources, such as U.S. Census Bureau, Bureau of Labor Statistics, local government reports, educational institutions, and crime databases. The selected years for analysis will include data for years up to 2020 (excluding 2021 due to potential pandemic-related data inconsistencies).
-2.     Data Analysis: We will employ statistical methods to analyze the collected data. This will involve examining trends, calculating growth rates, and identifying correlations between Austin's growth and the selected indicators in the respective counties.
+
+2.   Data Analysis: We will employ statistical methods to analyze the collected data. This will involve examining trends, calculating growth rates, and identifying correlations between Austin's growth and the selected indicators in the respective counties.
+
 3.    Comparative Study: We will compare the data from Travis County with that of surrounding counties to ascertain the differences in growth and its impacts on the various areas of interest.
+
 4.    Predictive Analysis: Utilizing the findings from our analysis, we will make predictions about potential outcomes in the future if the growth trend continues at its current rate or follows similar patterns.
 
 

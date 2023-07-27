@@ -58,7 +58,7 @@ The primary objectives of this project are as follows:
 
 We anticipate that our analysis will provide valuable insights into the effects of Austin's rapid growth on Travis County and neighboring areas. By identifying correlations and trends in the selected indicators, we hope to make informed predictions about potential future developments. Our findings could be instrumental in guiding local policymakers, urban planners, and community leaders in managing the growth effectively and sustainably.
 
-<h1 align="center">6. Deviverables</h1>
+<h1 align="center">6. Deliverables</h1>
 
 The project will deliver the following:
 
@@ -77,7 +77,7 @@ The project will be undertaken by:
 <h3 align="center">
   <img width="100" alt="ir" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/b442783a-c4c5-4227-abf3-515ad114e539>&nbsp;&nbsp;&nbsp;Isac Ramos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="sl" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/8f92d55c-1471-474b-b104-305582ef9bec>&nbsp;&nbsp;Shannon Lloyd &nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="ad" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/d6248e88-63ea-4252-aebb-3656284d2c9e>&nbsp;&nbsp;&nbsp;Alejandro Davila
 
-<h1 align="center">6. Conclusion</h1>
+<h1 align="center">8. Conclusion</h1>
 
 This project aims to shed light on the consequences of Austin's fast-paced growth on Travis County and surrounding areas. Through rigorous data analysis, we seek to understand how the growth has impacted various aspects of the region, such as population, economy, education, crime, and demographics. By making predictions about future trends, we aim to contribute valuable insights that can assist in planning for sustainable development and addressing potential challenges resulting from continuous growth.
 

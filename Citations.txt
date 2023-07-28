@@ -1,3 +1,6 @@
 
 Zipcodes from Counties:
 http://www.ciclt.net/sn/clt/capitolimpact/gw_zipdet.aspx?state=tx&stfips=48&stname=Texas&zip=78769 
+
+How to delay Python Loop:
+https://www.purplefrogsystems.com/2020/07/how-to-delay-a-python-loop/

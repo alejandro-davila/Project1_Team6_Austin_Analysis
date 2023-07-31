@@ -6,3 +6,5 @@ How to delay Python Loop:
 https://www.purplefrogsystems.com/2020/07/how-to-delay-a-python-loop/
 
 https://stackoverflow.com/questions/19412462/getting-distance-between-two-points-based-on-latitude-longitude
+
+https://www.schooldigger.com/aboutrankingmethodology.aspx

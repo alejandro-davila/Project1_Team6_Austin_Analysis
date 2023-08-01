@@ -12,16 +12,14 @@ The provided data presents a snapshot of key demographic and socioeconomic indic
 
 All four counties experienced population growth from 2017 to 2021. Travis County witnessed a substantial increase, going from 1,226,698 in 2017 to 1,740,591 in 2021, marking a growth of over 41%. Williamson County also showed significant growth, from 547,545 in 2017 to 806,125 in 2021, an increase of approximately 47%. Hays County and Bastrop County also experienced population growth, though at a comparatively lower rate.
 
+<p align="center">
+<img width="824" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/63edfc08-3115-44a6-a06f-a0019afa8d57>
 
 
-<h2 align="center">Travis County, Texas:</h2>
 
 <h1 align="center">Median Income</h1>
 
 The provided data offers an insight into the median income trends in four counties in Texas, namely Travis County, Hays County, Williamson County, and Bastrop County, for the years 2017, 2019, and 2021. Let's analyze this data to understand the changes in median incomes over the three-year period.
-
-<p align="center">
-<img width="824" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/63edfc08-3115-44a6-a06f-a0019afa8d57>
 
 
 
@@ -95,7 +93,24 @@ In conclusion, the data analysis shows strong evidence of an association between
 Racial demographics displayed varying patterns across the counties. Travis County had the most diverse population, with substantial numbers of White, Hispanic/Latino, and Black or African American residents. Williamson County had a predominantly White population, while Hays County and Bastrop County had significant Hispanic/Latino communities.
 
 <p align="center">
-<img width="424" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/e5798ec3-9192-4e8f-a97d-c3e40752744d>
+<img width="724" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/06ecf89c-6787-4ec9-b372-2b81c2c9d58a>
+
+
+<p align="center">
+<img width="724" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/ebe1ccf2-f4e5-4efa-9f67-e8bfa41e9998>
+
+
+
+<p align="center">
+<img width="724" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/4fdc2464-33e0-4b9e-8977-2ac27f778e5d>
+
+
+
+<p align="center">
+<img width="724" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/5b6a0bb1-06c9-4931-99a4-5937fbd6ffe3>
+
+
+
 
 Over the four-year period, racial demographics experienced slight changes. The White population decreased in Travis County and Williamson County, while Hispanic/Latino populations increased in all four counties, especially in Travis County and Hays County. The Black or African American population remained relatively stable, with slight fluctuations.
 

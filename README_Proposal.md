@@ -17,7 +17,7 @@ The primary objectives of this project are as follows:
 
 •    To analyze and compare data from various years, focusing on years prior to 2022 (e.g., 2020 and earlier), to understand the trends leading up to Austin's rapid growth.
 
-•    To examine changes in specific areas of interest, including population dynamics, economic indicators, crime rates, education levels, and demographic shifts in Travis County and surrounding counties.
+•    To examine changes in specific areas of interest, including population dynamics, economic indicators, crime rates, education, and demographic shifts in Travis County and surrounding counties.
 
 •    To identify correlations between the growth of Austin and its effects on the aforementioned areas.
 
@@ -48,8 +48,6 @@ The primary objectives of this project are as follows:
 •    Crime Rates: Assessing any potential impact on crime rates as a result of population growth.
 
 •    School Rankings: Examining how the growth affects the performance and rankings of schools in the area.
-
-•    Higher Education Levels: Analyzing the effect on higher education enrollment and attainment levels.
 
 •    Racial Demographics: Studying shifts in racial demographics to identify any disparities resulting from the growth.
 

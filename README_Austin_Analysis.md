@@ -147,9 +147,90 @@ The same can be said when analyzing the Highschool, Middle School, and Elementar
 <img width="724" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/45e823a1-b430-434c-bbe1-c222f7f0490e>
 
 
+
+
+<h1 align="center">Austin Crime</h1>
+
+<h1 align="center">Based on the provided data for the top 5 crimes in 2019, 2021, and 2022, here is the analysis</h1>
+
+<h3 align="center">Top 5 Crimes</h3>
+
+The top 5 crimes remained consistent over the three years, with slight variations in their rankings. "Family Disturbance" and "Theft" were consistently among the top 5 crimes in all three years. "Burglary of Vehicle" and "Criminal Mischief" were also prevalent crimes, though their rankings changed between the years. "Auto Theft" was not in the top 5 crimes in 2019 but became one of the top 5 crimes in 2021 and 2022.
+
+<h3 align="center">Yearly Trends</h3>
+
+The line chart showed fluctuations in the occurrence of the top 5 crimes over the years. While some crimes experienced a consistent decline (e.g., "Burglary of Vehicle" and "Theft"), others showed slight variations.
+
+<h3 align="center">Yearly Percentage Change</h3> 
+
+The percentage change from 2019 to 2021 indicated that most of the top crimes decreased in occurrence during this period, except for "Auto Theft," which saw a significant increase. The percentage change from 2019 to 2022 showed that "Family Disturbance," "Burglary of Vehicle," and "Theft" continued to decrease, while "Auto Theft" further increased. "Criminal Mischief" decreased but to a lesser extent compared to the other years.
+
+<h3 align="center">Insights</h3> 
+
+The decrease in certain crimes, such as "Burglary of Vehicle" and "Theft," suggests that law enforcement or community initiatives may have been successful in reducing these types of crimes. On the other hand, the increase in "Auto Theft" may signal a new trend that requires attention from law enforcement agencies.
+
+<h3 align="center">Limitations</h3>
+
+It's essential to consider that the analysis is based on a limited dataset and only includes the top 5 crimes. A more comprehensive analysis would require a broader range of crime data, including other types of offenses and geographical areas. Additionally, external factors, such as changes in law enforcement strategies or socioeconomic conditions, could influence crime trends, and further investigation would be necessary to understand these dynamics fully.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2 align="center">Interpretation Limitations</h2>
 
 It's crucial to acknowledge the limitations of the analysis. The data analysis is based on available data and the assumptions made during the data collection and processing. The results may be influenced by other variables not included in the current analysis, such as school funding, demographics, teaching quality, and local policies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

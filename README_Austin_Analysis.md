@@ -14,13 +14,15 @@ All four counties experienced population growth from 2017 to 2021. Travis County
 
 
 
-
-
-
+<h2 align="center">Travis County, Texas:</h2>
 
 <h1 align="center">Median Income</h1>
 
 The provided data offers an insight into the median income trends in four counties in Texas, namely Travis County, Hays County, Williamson County, and Bastrop County, for the years 2017, 2019, and 2021. Let's analyze this data to understand the changes in median incomes over the three-year period.
+
+<p align="center">
+<img width="824" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/63edfc08-3115-44a6-a06f-a0019afa8d57>
+
 
 
 <h2 align="center">Travis County, Texas:</h2>

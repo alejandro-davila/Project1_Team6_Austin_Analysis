@@ -1,5 +1,5 @@
 # Project1_Team6_Rapid_Growth_Market
-Team 6, consisting of Christopher H., Induja M., Isac R., Shannon L., and Alejandro D., analyzing data driven by the top  4 metropolitans  in the state of Texas. 
+Team 6, consisting of Christopher H., Induja M., Isac R., Shannon L., and Alejandro D.
 
 <p align="center">
 <img width="424" alt="ratlabs" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/fc946ef6-71c7-41c9-b826-d9fa86869726>
@@ -9,7 +9,7 @@ Team 6, consisting of Christopher H., Induja M., Isac R., Shannon L., and Alejan
 
 <h1 align="center">1. Introduction</h1>
 
-The American Growth Project has reported that Austin was the second fastest growing city in the US in 2022. This unprecedented growth can have far-reaching effects on the city and its surrounding areas. In this project, we aim to analyze the changes that have occurred in Travis County, where Austin is located, and the neighboring counties. By examining key indicators such as population, median income, unemployment levels, crime rates, school rankings, higher education levels, and racial demographics, we seek to understand the implications of this growth and make predictions for potential future developments if this growth trend continues.
+The American Growth Project has reported that Austin was the second fastest growing city in the US in 2022. This unprecedented growth can have far-reaching effects on the city and its surrounding areas. In this project, we aim to analyze the changes that have occurred in Travis County, where Austin is located, and the neighboring counties. By examining key indicators such as population, median income, unemployment levels, crime rates, school rankings, and racial demographics, we seek to understand the implications of this growth and make predictions for potential future developments if this growth trend continues.
 
 <h1 align="center">2. Objectives</h1>
 
@@ -28,7 +28,7 @@ The primary objectives of this project are as follows:
 <p align="center">
 <img width="424" alt="ratlabs" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/66362c83-fc41-4868-9aab-9a2bd76623ae>
 
-1.    Data Collection: We will gather relevant data from various sources, such as U.S. Census Bureau, Bureau of Labor Statistics, local government reports, educational institutions, and crime databases. The selected years for analysis will include data for years up to 2020 (excluding 2021 due to potential pandemic-related data inconsistencies).
+1.    Data Collection: We will gather relevant data from various sources, such as U.S. Census Bureau, schooldigger.com, and City of Austin crime statistics. The selected years for analysis will include data for years up to 2022 (excluding years as needed due to potential pandemic-related data inconsistencies).
 
 2.   Data Analysis: We will employ statistical methods to analyze the collected data. This will involve examining trends, calculating growth rates, and identifying correlations between Austin's growth and the selected indicators in the respective counties.
 

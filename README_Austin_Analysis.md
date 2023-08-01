@@ -4,9 +4,17 @@
 
 <h1 align="center">Data Analytics Project Proposal:  Investigating the Impact of Austin's Rapid Growth on Travis County and Surrounding Counties</h1>
 
+
+<h1 align="center">Data Collection</h1>
+
+
+In our investigation of the impact of recent population growth in Austin and the surrounding counties on local school performance metrics, we utilized the American Community Survey 1-Year Data API to collect information for the four most populous counties (Travis, Hays, Williamson, and Bastrop) during 2017, 2019, and 2021. The data we collected encompassed various topics, including population totals, median income, unemployment count, and population totals by race. Due to the limitations of the data source, we faced challenges, such as the absence of 2020 census data due to the COVID-19 pandemic. To maintain consistency, we compared odd years only and confined our time frame from 2017 to 2021. Simultaneously, we utilized the SchoolDigger.com API to access comprehensive records of schools nationwide, obtaining school ranking information, standardized test scores, and geographical coordinates for each school. Our focus was on data from the years 2019, 2021, and 2022, considering 2020's unavailability due to the pandemic. While this approach has inherent limitations, it provides us with a relevant perspective on recent growth and its potential impact on school performance in the Austin metro area.
+
+
 <h1 align="center">Analysis of Central-Texas Data (2017 to 2021)</h1>
 
-The provided data presents a snapshot of key demographic and socioeconomic indicators for four counties in Texas, namely Travis County, Hays County, Williamson County, and Bastrop County, for the years 2017 and 2021. Let's delve into the analysis of this data to understand the trends and changes in these counties over the given period.
+The provided data presents a snapshot of key demographic and socioeconomic indicators for four counties in Texas, namely Travis County, Hays County, Williamson County, and Bastrop County, for the years 2017 through 2021. Let's delve into the analysis of this data to understand the trends and changes in these counties over the given period.
+
 
 <h1 align="center">Population Growth:</h1>
 
@@ -16,11 +24,9 @@ All four counties experienced population growth from 2017 to 2021. Travis County
 <img width="824" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/63edfc08-3115-44a6-a06f-a0019afa8d57>
 
 
-
 <h1 align="center">Median Income</h1>
 
 The provided data offers an insight into the median income trends in four counties in Texas, namely Travis County, Hays County, Williamson County, and Bastrop County, for the years 2017, 2019, and 2021. Let's analyze this data to understand the changes in median incomes over the three-year period.
-
 
 
 <h2 align="center">Travis County, Texas:</h2>
@@ -110,11 +116,48 @@ Racial demographics displayed varying patterns across the counties. Travis Count
 <img width="724" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/5b6a0bb1-06c9-4931-99a4-5937fbd6ffe3>
 
 
-
-
 Over the four-year period, racial demographics experienced slight changes. The White population decreased in Travis County and Williamson County, while Hispanic/Latino populations increased in all four counties, especially in Travis County and Hays County. The Black or African American population remained relatively stable, with slight fluctuations.
 
 It's essential to recognize and study the implications of these demographic changes to address any disparities and promote inclusivity and cultural understanding.
+
+
+<h1 align="center">School Data</h1>
+
+Let's take a deeper dive into one county. Travis county, the heart of Austin, Tx. Based on the linear regression equation and correlation coefficient, we can analyze the data as follows:
+
+<h2 align="center">Net Rank Movement vs. Distance to City Center</h2>
+
+The negative slope (-22.31) in the regression equation indicates that there is a negative relationship between the net rank movement of schools and their distance from the city center. As the distance to the city center increases, the net rank movement tends to decrease. This suggests that schools located farther from the city center may experience less improvement or potentially decline in their rankings compared to schools closer to the city center.
+
+The correlation coefficient (r-value) of -0.364096423 indicates a weak negative correlation between net rank movement and distance to the city center. Although the correlation is not very strong, it still suggests that there is some tendency for schools located closer to the city center to have slightly higher net rank movements compared to schools located farther away. However, it's important to note that the correlation is weak, and there might be other factors contributing to school rank movements.
+
+The same can be said when analyzing the Highschool, Middle School, and Elementary data movement. 
+
+
+<p align="center">
+<img width="724" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/0320f020-f242-46b5-8864-b53afe56883c>
+
+<p align="center">
+<img width="724" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/d9b0e2c5-af2c-48f9-8a22-e51ada8af112>
+
+<p align="center">
+<img width="724" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/f065fb35-7488-40d1-bf3f-33cd0b60d7bb>
+
+<p align="center">
+<img width="724" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/45e823a1-b430-434c-bbe1-c222f7f0490e>
+
+
+<h2 align="center">Interpretation Limitations</h2>
+
+It's crucial to acknowledge the limitations of the analysis. The data analysis is based on available data and the assumptions made during the data collection and processing. The results may be influenced by other variables not included in the current analysis, such as school funding, demographics, teaching quality, and local policies.
+
+
+
+<h2 align="center">Cautions with Interpretation</h2>
+
+Remember that correlation does not imply causation. While the analysis indicates a relationship between distance to the city center and net rank movement, it does not prove a cause-and-effect relationship. Other factors and confounding variables may be influencing the observed trends.
+
+
 
 
 

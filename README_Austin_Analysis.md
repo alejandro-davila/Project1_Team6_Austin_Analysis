@@ -1,7 +1,5 @@
 <p align="center">
-<img width="424" alt="picture" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/fc946ef6-71c7-41c9-b826-d9fa86869726>
-
-
+<img width="1000" height="400" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/4f5d785a-9845-46f4-9984-14faf93c77d3>
 <h1 align="center">Data Analytics Project Proposal:  Investigating the Impact of Austin's Rapid Growth on Travis County and Surrounding Counties</h1>
 
 
@@ -89,8 +87,7 @@ The data reveals fluctuations in unemployment figures for each county between 20
 <p align="center">
 <img width="424" alt="picture" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/fe34ec77-1fdc-4532-869f-bad26c14999c>
 
-In conclusion, the data analysis shows strong evidence of an association between unemployment status and the county in Texas. The differences in unemployment rates among the counties are significant, and the null hypothesis of equal unemployment rates across all counties is rejected. Policymakers and local authorities in each county should use this information to implement targeted strategies and initiatives to address unemployment challenges specific to their region. Additionally, further investigation and research may be needed to understand the underlying factors contributing to these variations in unemployment rates among the counties.
-
+Unemployment behaved comepletly different from each county, other than they are all changing. There are no predictions we can make based on this data. 
 
 
 
@@ -155,9 +152,18 @@ The same can be said when analyzing the Highschool, Middle School, and Elementar
 
 <h3 align="center">Top 5 Crimes</h3>
 
+
+<p align="center">
+<img width="945" alt="Screenshot 2023-08-01 at 10 51 57 PM" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/1f0b02bd-ab5e-4b1e-8efb-5e8e3639c8c6">
+
+
 The top 5 crimes remained consistent over the three years, with slight variations in their rankings. "Family Disturbance" and "Theft" were consistently among the top 5 crimes in all three years. "Burglary of Vehicle" and "Criminal Mischief" were also prevalent crimes, though their rankings changed between the years. "Auto Theft" was not in the top 5 crimes in 2019 but became one of the top 5 crimes in 2021 and 2022.
 
 <h3 align="center">Yearly Trends</h3>
+
+
+<p align="center">
+<img width="948" alt="Screenshot 2023-08-01 at 10 59 58 PM" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/88fd1b64-8969-47e8-be77-efa887d58dec">
 
 The line chart showed fluctuations in the occurrence of the top 5 crimes over the years. While some crimes experienced a consistent decline (e.g., "Burglary of Vehicle" and "Theft"), others showed slight variations.
 
@@ -175,62 +181,9 @@ It's essential to consider that the analysis is based on a limited dataset and o
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2 align="center">Interpretation Limitations</h2>
 
 It's crucial to acknowledge the limitations of the analysis. The data analysis is based on available data and the assumptions made during the data collection and processing. The results may be influenced by other variables not included in the current analysis, such as school funding, demographics, teaching quality, and local policies.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -239,21 +192,30 @@ It's crucial to acknowledge the limitations of the analysis. The data analysis i
 Remember that correlation does not imply causation. While the analysis indicates a relationship between distance to the city center and net rank movement, it does not prove a cause-and-effect relationship. Other factors and confounding variables may be influencing the observed trends.
 
 
-
-
-
 <h1 align="center">7. Team Members</h1>
+Click on the picture to see member's GitHub profile
+
 
 The project will be undertaken by: 
 
 <h3 align="center">
-  <img width="100" alt="ch" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/9059bb2c-5f9f-4c5f-99cf-0fabd9850c7d>&nbsp;&nbsp;&nbsp;Christopher Hornung &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<img width="100" alt="im" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/4a080126-b1f9-4c63-aa7b-e64ecf3b3891>&nbsp;&nbsp;&nbsp;Induja Mohandas 
+  <img width="100" alt="ch" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/9059bb2c-5f9f-4c5f-99cf-0fabd9850c7d>&nbsp;&nbsp;&nbsp;Christopher Hornung &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<img width="100" alt="im" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/5d51386b-be60-4180-b106-c6cbc5f3be8a>&nbsp;&nbsp;&nbsp;Induja Mohandas 
   
 
 <h3 align="center">
-  <img width="100" alt="ir" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/b442783a-c4c5-4227-abf3-515ad114e539>&nbsp;&nbsp;&nbsp;Isac Ramos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="sl" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/8f92d55c-1471-474b-b104-305582ef9bec>&nbsp;&nbsp;Shannon Lloyd &nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="ad" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/d6248e88-63ea-4252-aebb-3656284d2c9e>&nbsp;&nbsp;&nbsp;Alejandro Davila
+  <img width="100" alt="ir" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/b442783a-c4c5-4227-abf3-515ad114e539>&nbsp;&nbsp;&nbsp;Isac Ramos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="sl" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/8f92d55c-1471-474b-b104-305582ef9bec>&nbsp;&nbsp;Shannon Lloyd &nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="ad" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/e2ff57bb-025a-4d7c-8725-1b96903b02ee>&nbsp;&nbsp;&nbsp;Alejandro Davila
 
 
+<h2 align="center">Resources</h2>
 
+<img width="187" alt="Screenshot 2023-08-01 at 11 49 52 PM" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/fa6ebe54-37d4-4a9b-bc4b-b034f8220ce6">
+
+<img width="138" alt="Screenshot 2023-08-01 at 11 51 44 PM" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/978248ee-04c0-4d1e-996c-c884b7c20283">
+
+<img width="178" alt="Screenshot 2023-08-01 at 11 53 50 PM" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/769faeef-fc35-48e0-b8af-bc949eaea61a">
+
+<img width="176" alt="Screenshot 2023-08-01 at 11 54 07 PM" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/7fcbd99b-3e86-40d8-8309-62f136dbab0a">
+
+<img width="167" alt="Screenshot 2023-08-01 at 11 54 49 PM" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/70ca6402-93ed-447d-819d-c7bd23b79e98">
 
 

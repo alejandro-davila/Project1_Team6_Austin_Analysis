@@ -203,7 +203,7 @@ The project will be undertaken by:
   
 
 <h3 align="center">
-  <img width="100" alt="ir" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/b442783a-c4c5-4227-abf3-515ad114e539>&nbsp;&nbsp;&nbsp;Isac Ramos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="sl" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/8f92d55c-1471-474b-b104-305582ef9bec>&nbsp;&nbsp;Shannon Lloyd &nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="ad" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/e2ff57bb-025a-4d7c-8725-1b96903b02ee>&nbsp;&nbsp;&nbsp;Alejandro Davila
+  <img width="100" alt="ir" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/4fd7641f-24fd-40f8-b006-90dbcc5f44bc>&nbsp;&nbsp;&nbsp;Isac Ramos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="sl" src=https://github.com/alejandro-davila/Matplotlib_Module5/assets/135288005/8f92d55c-1471-474b-b104-305582ef9bec>&nbsp;&nbsp;Shannon Lloyd &nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="ad" src=https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/e2ff57bb-025a-4d7c-8725-1b96903b02ee>&nbsp;&nbsp;&nbsp;Alejandro Davila
 
 
 <h2 align="center">Resources</h2>
